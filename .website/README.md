@@ -1,4 +1,7 @@
 ---
+genres:
+  - platformer
+  - arcade
 directors_cut: https://wavedash.com/games/rainbow-speed
 # See github.com/js13kGames/hello-world for supported frontmatter
 ---
